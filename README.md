@@ -4,7 +4,7 @@ Computer Engineering student and IT Technician, focused on software development.
 Seeking opportunities in IT.
 
 ## Skills
-- C#
+- C#, Python
 - HTML, CSS, JavaScript
 - Git & GitHub
 
