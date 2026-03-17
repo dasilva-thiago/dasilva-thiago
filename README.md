@@ -9,5 +9,5 @@ Seeking opportunities in IT.
 - Git & GitHub
 
 ## Contact
-- LinkedIn: [Thiago da Silva](https://www.linkedin.com/in/seu-usuario)
+- LinkedIn: [Thiago da Silva](https://www.linkedin.com/in/thiago-da-silva-876805269)
 - Email: [thiagosilva785@gmail.com](mailto:thiagosilva785@gmail.com)
