@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Thiago
 
-<!--
-**dasilva-thiago/dasilva-thiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student and IT Technician, focused on software development.  
+Seeking opportunities in IT.
 
-Here are some ideas to get you started:
+## Skills
+- C#
+- HTML, CSS, JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- LinkedIn: [Thiago da Silva](https://www.linkedin.com/in/seu-usuario)
+- Email: [thiagosilva785@gmail.com](mailto:thiagosilva785@gmail.com)
