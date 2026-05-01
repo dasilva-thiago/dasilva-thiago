@@ -4,6 +4,8 @@ Computer Engineering student and IT Technician with experience in technical supp
 Focused on building scalable applications and growing in software engineering.
 Seeking opportunities in IT.
 
+- Check out my [Portfolio](https://www.dasilva-thiago.dev)
+
 ## Skills
 - Languages: C#, Python, JavaScript
 - Frontend: HTML, CSS
