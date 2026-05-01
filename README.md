@@ -25,3 +25,4 @@ Seeking opportunities in IT.
 ## Contact
 - LinkedIn: [Thiago da Silva](https://www.linkedin.com/in/thiago-da-silva-876805269)
 - Email: [thiagosilva785@gmail.com](mailto:thiagosilva785@gmail.com)
+- Website: [My Developer Portfolio](https://www.dasilva-thiago.dev)
