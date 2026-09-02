@@ -13,14 +13,13 @@ Seeking opportunities in IT.
 - Tools: Git & GitHub
 - Concepts: OOP, Data Structures, Database Modeling, System Analysis
 
- ## 🎓 Education
+ ## Education
 - Computer Engineering – Universidade Virtual do Estado de São Paulo (UNIVESP)  
 - Technical Degree in Information Technology – Serviço Nacional de Aprendizagem Comercial (SENAC)
 
-## 🌍 Languages
+## Languages
 - Portuguese: Native
 - English: Bilingual
-- Spanish: Intermediate
 
 ## Contact
 - LinkedIn: [Thiago da Silva](https://www.linkedin.com/in/thiago-da-silva-876805269)
