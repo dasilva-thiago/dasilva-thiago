@@ -15,7 +15,7 @@
 
 ## About me
 
-I’m a Computer Engineering student at **UNIVESP** and an **IT Technician graduate from SENAC**, focused on backend development, software engineering, and database-driven applications. I enjoy turning real operational needs into maintainable software—from modeling relational data and designing APIs to building workflows with clear access controls.
+I’m an **IT Technician from SENAC** and a Computer Engineering student at **UNIVESP**, focused on backend development, software engineering, and database-driven applications. I enjoy turning real operational needs into maintainable software—from modeling relational data and designing APIs to building workflows with clear access controls.
 
 My IT support background gives me direct exposure to technical challenges and the needs of real users. I’m **currently seeking entry-level software development opportunities** where I can contribute, learn, and grow as an engineer.
 
@@ -54,13 +54,14 @@ eduAssets replaces scattered manual records with a centralized system for school
 
 ## Professional experience
 
-### IT Support · PROATI
+### IT Technician · PROATI
 **São Paulo State Department of Education**
 
-- Support computers, notebooks, tablets, and educational platforms in a public-school environment.
-- Help resolve technology issues that affect daily school operations.
-- Assist staff and students with the use of digital tools and equipment.
-- Apply practical troubleshooting and problem-solving in a user-facing environment.
+- Provided support for systems, digital platforms, and technology equipment used in academic and administrative activities.
+- Developed a web solution to digitize equipment loan, return, and incident tracking.
+- Developed and integrated backend services, REST APIs, and databases, as well as technical documentation and continuous
+improvement initiatives.
+- Gathered user needs and translated operational problems into requirements, business rules, and software features.
 
 ## Education
 
@@ -75,5 +76,5 @@ eduAssets replaces scattered manual records with a centralized system for school
 ## Contact
 
 - **Portfolio:** [dasilva-thiago.dev](https://dasilva-thiago.dev)
-- **LinkedIn:** [Thiago da Silva](https://www.linkedin.com/in/thiago-da-silva-876805269)
+- **LinkedIn:** [Thiago da Silva](https://www.linkedin.com/in/dasilva-thiago)
 - **Email:** [thiagosilva785@gmail.com](mailto:thiagosilva785@gmail.com)
