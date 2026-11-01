@@ -1,8 +1,8 @@
 <h1 align="center">Thiago da Silva</h1>
-<h3 align="center">Computer Engineering Student · IT Technician · Backend-focused Developer</h3>
+<h3 align="center">Computer Engineering Student · IT Technician · Software Developer</h3>
 
 <p align="center">
-  I build software that solves practical problems, with a focus on backend development, REST APIs, relational databases, and reliable application workflows.
+  I build software that solves practical problems, with a focus on frontend and backend development, REST APIs, relational databases, and reliable application workflows.
 </p>
 
 <p align="center">
